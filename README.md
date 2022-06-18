@@ -16,3 +16,8 @@ By default the frames are created in the app folder under "img" directory.
 ## Requirements to dev
 
 - [ffmpeg](https://ffmpeg.org/) (Put in bin folder in ffmpeg folder of the project) 
+
+## Stack & libraries
+
+- .NET 6 
+- [MediaToolkit.NetCore](https://github.com/mtebenev/MediaToolkit.NetCore)
